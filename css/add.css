@@ -1,0 +1,29 @@
+body{
+    background: rgba(221, 221, 221, 0.658);
+}
+button{
+    background: #5cb85c;
+    border: 0px;
+    width: 38px;
+    height: 30px;
+    font-size: 18px;
+    cursor: pointer;
+    margin-left: 50%;
+}
+#form-controller{
+    margin-top: 20px;
+    width: 80%;
+}
+input[type='text']{
+    width: 95%;
+    right: 30px;
+    left: 30px;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  tr, td {
+    padding: 5px;
+    text-align: left;
+  }

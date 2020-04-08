@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Varela+Round&display=swap');
+*,html{
+    margin: 0;
+    padding: 0;
+}
+.form-controller{
+    position: relative;
+    margin-top: 20px;
+    font-family: 'Titillium Web', sans-serif;
+    text-align: center;
+}
+input[type='text']{
+    width: 250px;
+    padding: 10px;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 16px;
+    margin-top:5px;
+}
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
+select{
+    width: 275px;
+    padding: 10px;
+    font-family: 'Titillium Web', sans-serif;
+    margin-top:5px;
+}
+input[type='file']{
+    width: 150px;
+    height: 40px;
+    font-family: 'Titillium Web', sans-serif;
+    padding: 10px;
+}
+input[type='submit']
+{
+    width: 150px;
+    height: 40px;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 18px;    
+}
